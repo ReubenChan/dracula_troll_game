@@ -1,4 +1,4 @@
-# dracula_troll_game
+# Vampire_troll_game
 
 ## An Object Oriented inheritance fictional game 
 > 
