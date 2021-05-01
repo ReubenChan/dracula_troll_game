@@ -1,6 +1,6 @@
 # dracula_troll_game
 
-> An Object Oriented inheritance fictional game 
+## An Object Oriented inheritance fictional game 
 > 
 > Creating a vampire King with subclass of vampire
    1. A Vampire King is powerful, any points of damage inflicted will be divided by 4
